@@ -58,7 +58,7 @@ function App() {
   return (
     <>
       <Container>
-        <Title>Cadastro Usuários</Title>
+        <Title>Cadastro Funcionario</Title>
         
         <input
           type="text"
